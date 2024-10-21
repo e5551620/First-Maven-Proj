@@ -3,8 +3,8 @@
 <suite name="Suite">
   <test name="Test">
     <classes>
-      <class name="Test.search"/>
-      <class name="Test.search2"/>
+      <class name="Test.TestWaits"/>
+     
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
